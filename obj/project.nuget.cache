@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wi8MMHDJxIj+I1BhIV6aGcz85Xj4kLFBBKuOTx62vMb2T+2Rq4Y61dMy39rHzRAvpZQmqR2zFGoaXknSfq0p9w==",
+  "success": true,
+  "projectFilePath": "/Users/stephenkimogol/Documents/Webdevelopment/VPSOPPGAVE/Bookstore/Bookstore.csproj",
+  "expectedPackageFiles": [
+    "/Users/stephenkimogol/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/stephenkimogol/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/stephenkimogol/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/stephenkimogol/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/stephenkimogol/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/stephenkimogol/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
